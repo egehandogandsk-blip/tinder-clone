@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559667599509",
+    "project_id": "finder-5037e",
+    "storage_bucket": "finder-5037e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559667599509:android:24eb24b6dab5bec442639c",
+        "android_client_info": {
+          "package_name": "com.egehandogan.tinderclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCD3Mj6H3faES4s_2Bo7P5ZYIIe-Y9PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
